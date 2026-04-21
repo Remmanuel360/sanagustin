@@ -283,6 +283,20 @@
     "url": "https://drive.google.com/file/d/1BX9-lCaqvNCjWpugjcLgAYwhpSJJQTmu/view?usp=sharing"
   },
   {
+    "nombreapp": "Emoji Game",
+    "descripcion": "Juego de simon dice con emojis, ta bueno",
+    "icono": "https://www.shutterstock.com/image-vector/shopping-cart-blue-vector-icon-600nw-2467365901.jpg",
+    "grupo": "martes",
+    "fecha": "2026-04-21",
+    "id": 1,
+    "integrantes": [
+      "David Pernett",
+      "Emmanuel Redondo"
+    ],
+    "actividad": "Primera Clase",
+    "url": "https://emojidicev1.netlify.app/"
+  },
+  {
     "nombreapp": "Grupo del Martes Lorena & Paula",
     "descripcion": "Grupo de la noche clase de 7:45 a 10:00.",
     "icono": "https://img.icons8.com/external-tal-revivo-bold-tal-revivo/1200/external-suzuki-motor-corporation-is-a-japanese-multinational-corporation-automotive-bold-tal-revivo.jpg",
